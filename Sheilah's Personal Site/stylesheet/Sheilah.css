@@ -1,0 +1,42 @@
+body {
+    background-image:
+     url("../Images/IMG_3659.jpg");
+     /* background-repeat:no-repeat; */
+     background-position: center-left;
+     background-size: 500px, 1000px;
+     background-color: rgb(56, 38, 3);
+     border: 3px dashed #e6e5e3;
+     padding: 10px;
+     font-family: 'Dancing Script';font-size: 60px;
+    }
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+  .flex-container > div {
+    background-color: #b39f8c;
+    margin: 5px;
+    padding: 10px;
+ 
+  }
+
+  .jumbotron {
+      background-image: url("../Images/Diamond.jpg");
+      background-repeat:no-repeat;
+      background-size: 2200px, 1000px;
+      text-emphasis-color: white;
+  }
+
+  .card {
+    background-image: url("../Images/Diamond.jpg");
+    background-repeat:no-repeat;
+    background-size: 1800px, 1000px;
+    text-emphasis-color: white;
+  }
+  
+ 
