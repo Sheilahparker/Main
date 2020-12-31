@@ -1,0 +1,23 @@
+
+
+body {
+	background-image: url("images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+
+.container1 {
+	max-width: 500px;
+ 	margin: auto;
+
+	background-color: rgb(64, 128, 128); 
+	
+}
+
+ 
+	
+
+
+
